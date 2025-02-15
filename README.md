@@ -1,0 +1,2 @@
+# CodeAlpha Sales_prediction_using_python
+A machine learning project to predict sales using advertisement data." This project leverages machine learning to predict product sales based on advertising budgets across TV, radio, and newspaper platforms. Using Linear Regression, the model identifies key insights into how advertising investments influence sales performance, providing actionable recommendations for marketing strategies.
